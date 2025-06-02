@@ -46,7 +46,7 @@ Here are some of the tools and technologies I work with daily.
 
 ### 🌎 Find Me Around the Web
 
-* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/arunkaroth/)
-* **My SRE & AI Portfolio:** [View My Projects](https://github.com/akaroth/your-portfolio-repo-name-here)
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/arun-karoth-9aa21a39/)
+* **My SRE & AI Portfolio:** [View My Projects](https://github.com/akaroth)
 
 ---
