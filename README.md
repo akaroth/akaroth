@@ -1,6 +1,6 @@
 # Hi there, I'm Arun Karoth 👋
 
-I'm a Lead Site Reliability Engineer and Platform Architect with over a decade of experience building and scaling resilient, automated infrastructure for highly regulated environments in the finance and government technology sectors.
+I'm a Devops/Site Reliability Engineer and Platform Architect with over a decade of experience building and scaling resilient, automated infrastructure for highly regulated environments in the finance and government technology sectors.
 
 My passion lies at the intersection of infrastructure reliability and intelligent automation. I believe the next generation of platform engineering will be driven by AI, and my goal is to be at the forefront of building those self-healing, observable, and efficient systems.
 
